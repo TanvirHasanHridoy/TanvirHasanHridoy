@@ -4,7 +4,7 @@
 - 💞️ I’m looking to work on my current projects and futher enhance my past projects
 - 📫 How to reach me----
             
-      1️⃣www.devhridoy.com/contacts
+      1️⃣https://portfolio-hridoy.vercel.app/
       2️⃣www.instagram.com/hridoy_bravo
       3️⃣https://t.me/hridoy_br
 
